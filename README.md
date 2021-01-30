@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I don't have anything to write here yet, but maybe I'll write something soon! 🐱‍👤
+
 <!--
 **verng95/verng95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
